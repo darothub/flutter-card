@@ -79,7 +79,9 @@ class _MainPageState extends State<MainPage> {
               )
             ),
             Center(
+
                child: Text("Flutter Developer".toUpperCase(), style: TextStyle(fontSize: 16,fontWeight: FontWeight.bold, letterSpacing: 5),),
+
             ),
             Card(
               color: Colors.white,
